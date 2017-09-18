@@ -1,4 +1,5 @@
-# Zappos-DataAnalysisProject
+# DataAnalysisProject
 
 
-Consumer Store Transactions. Finding consumer insights for the data.
+Online E-Commerce transactions.
+Performed Market Basket Analysis to find consumer insights. 
